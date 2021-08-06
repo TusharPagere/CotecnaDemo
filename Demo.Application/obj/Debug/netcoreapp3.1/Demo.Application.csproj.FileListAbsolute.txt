@@ -1,0 +1,14 @@
+C:\Users\TPAGERE\source\repos\Demo.Application\bin\Debug\netcoreapp3.1\Demo.Common.dll
+C:\Users\TPAGERE\source\repos\Demo.Application\bin\Debug\netcoreapp3.1\Demo.Entities.dll
+C:\Users\TPAGERE\source\repos\Demo.Application\obj\Debug\netcoreapp3.1\Demo.Application.csprojAssemblyReference.cache
+C:\Users\TPAGERE\source\repos\Demo.Application\obj\Debug\netcoreapp3.1\Demo.Application.AssemblyInfoInputs.cache
+C:\Users\TPAGERE\source\repos\Demo.Application\obj\Debug\netcoreapp3.1\Demo.Application.AssemblyInfo.cs
+C:\Users\TPAGERE\source\repos\Demo.Application\bin\Debug\netcoreapp3.1\Demo.Application.deps.json
+C:\Users\TPAGERE\source\repos\Demo.Application\bin\Debug\netcoreapp3.1\Demo.Application.dll
+C:\Users\TPAGERE\source\repos\Demo.Application\bin\Debug\netcoreapp3.1\Demo.Application.pdb
+C:\Users\TPAGERE\source\repos\Demo.Application\bin\Debug\netcoreapp3.1\Demo.Common.pdb
+C:\Users\TPAGERE\source\repos\Demo.Application\bin\Debug\netcoreapp3.1\Demo.Entities.pdb
+C:\Users\TPAGERE\source\repos\Demo.Application\obj\Debug\netcoreapp3.1\Demo.Application.csproj.CoreCompileInputs.cache
+C:\Users\TPAGERE\source\repos\Demo.Application\obj\Debug\netcoreapp3.1\Demo.Application.csproj.CopyComplete
+C:\Users\TPAGERE\source\repos\Demo.Application\obj\Debug\netcoreapp3.1\Demo.Application.dll
+C:\Users\TPAGERE\source\repos\Demo.Application\obj\Debug\netcoreapp3.1\Demo.Application.pdb
